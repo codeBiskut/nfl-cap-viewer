@@ -1,28 +1,29 @@
 const express = require('express')
 const cors = require('cors')
+const {exec} = require('child_process')
 
 const app = express();
-const PORT = process.env.PORT || 3001
+const PORT = process.env.PORT || 5000
 
 app.use(cors());
 app.use(express.json());
 
 //add mongodb when ready 
 
-app.post('/get-contracts', (req, res) => {
-    // Replace 'your-script.py' with the actual path to your Python script
-    const pythonProcess = spawn('python', ['scraper.py']);
-
-    pythonProcess.stdout.on('data', (data) => {
-        const output = data.toString();
-        res.json({ output });
+app.get('/get-contracts', (req, res) => {
+    console.log('made it to server.js')
+    exec('python scraper.py', (error, stdout, stderr) => {
+      if (error) {
+        console.error(`Error: ${error.message}`);
+        res.status(500).json({ error: 'An error occurred while running the Python script.' });
+        return;
+      }
+      if (stderr) {
+        console.error(`Script stderr: ${stderr}`);
+      }
+      res.json({ output: stdout });
     });
-
-    pythonProcess.stderr.on('data', (data) => {
-        console.error(`Error: ${data}`);
-        res.status(500).json({ error: 'An error occurred while running the script.' });
-    });
-});
+  });
 
 
 app.listen(PORT, () => {
