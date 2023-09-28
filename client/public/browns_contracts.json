@@ -1,0 +1,374 @@
+[
+  {
+    "Player": "Deshaun Watson",
+    "Contract Value": "5 yr, $230,000,000",
+    "Cap Hit": "$46,000,000",
+    "Expires": "2027"
+  },
+  {
+    "Player": "Myles Garrett",
+    "Contract Value": "5 yr, $125,000,000",
+    "Cap Hit": "$25,000,000",
+    "Expires": "2027"
+  },
+  {
+    "Player": "Denzel Ward",
+    "Contract Value": "5 yr, $100,500,000",
+    "Cap Hit": "$20,100,000",
+    "Expires": "2028"
+  },
+  {
+    "Player": "Amari Cooper",
+    "Contract Value": "5 yr, $100,000,000",
+    "Cap Hit": "$20,000,000",
+    "Expires": "2025"
+  },
+  {
+    "Player": "Jack Conklin",
+    "Contract Value": "4 yr, $60,000,000",
+    "Cap Hit": "$15,000,000",
+    "Expires": "2027"
+  },
+  {
+    "Player": "Dalvin Tomlinson",
+    "Contract Value": "4 yr, $57,000,000",
+    "Cap Hit": "$14,250,000",
+    "Expires": "2027"
+  },
+  {
+    "Player": "Wyatt Teller",
+    "Contract Value": "4 yr, $56,800,000",
+    "Cap Hit": "$14,200,000",
+    "Expires": "2026"
+  },
+  {
+    "Player": "David Njoku",
+    "Contract Value": "4 yr, $54,750,000",
+    "Cap Hit": "$13,687,500",
+    "Expires": "2026"
+  },
+  {
+    "Player": "Joel Bitonio",
+    "Contract Value": "3 yr, $48,000,000",
+    "Cap Hit": "$16,000,000",
+    "Expires": "2026"
+  },
+  {
+    "Player": "Nick Chubb",
+    "Contract Value": "3 yr, $36,600,000",
+    "Cap Hit": "$12,200,000",
+    "Expires": "2025"
+  },
+  {
+    "Player": "Juan Thornhill",
+    "Contract Value": "3 yr, $21,000,000",
+    "Cap Hit": "$7,000,000",
+    "Expires": "2026"
+  },
+  {
+    "Player": "Jedrick Wills",
+    "Contract Value": "4 yr, $19,702,914",
+    "Cap Hit": "$4,925,729",
+    "Expires": "2025"
+  },
+  {
+    "Player": "Ogbonnia Okoronkwo",
+    "Contract Value": "3 yr, $19,000,000",
+    "Cap Hit": "$6,333,333",
+    "Expires": "2026"
+  },
+  {
+    "Player": "Ethan Pocic",
+    "Contract Value": "3 yr, $18,000,000",
+    "Cap Hit": "$6,000,000",
+    "Expires": "2026"
+  },
+  {
+    "Player": "Greg Newsome",
+    "Contract Value": "4 yr, $12,748,736",
+    "Cap Hit": "$3,187,184",
+    "Expires": "2026"
+  },
+  {
+    "Player": "Za'Darius Smith",
+    "Contract Value": "1 yr, $11,710,000",
+    "Cap Hit": "$11,710,000",
+    "Expires": "2024"
+  },
+  {
+    "Player": "Jakeem Grant",
+    "Contract Value": "3 yr, $10,000,000",
+    "Cap Hit": "$3,333,333",
+    "Expires": "2024"
+  },
+  {
+    "Player": "Dustin Hopkins",
+    "Contract Value": "3 yr, $9,000,000",
+    "Cap Hit": "$3,000,000",
+    "Expires": "2025"
+  },
+  {
+    "Player": "Elijah Moore",
+    "Contract Value": "4 yr, $8,940,426",
+    "Cap Hit": "$2,235,107",
+    "Expires": "2025"
+  },
+  {
+    "Player": "Grant Delpit",
+    "Contract Value": "4 yr, $7,465,062",
+    "Cap Hit": "$1,866,266",
+    "Expires": "2024"
+  },
+  {
+    "Player": "Jeremiah Owusu-Koramoah",
+    "Contract Value": "4 yr, $6,476,216",
+    "Cap Hit": "$1,619,054",
+    "Expires": "2025"
+  },
+  {
+    "Player": "Charley Hughlett",
+    "Contract Value": "4 yr, $5,715,000",
+    "Cap Hit": "$1,428,750",
+    "Expires": "2027"
+  },
+  {
+    "Player": "Cedric Tillman",
+    "Contract Value": "4 yr, $5,614,512",
+    "Cap Hit": "$1,403,628",
+    "Expires": "2027"
+  },
+  {
+    "Player": "Martin Emerson",
+    "Contract Value": "4 yr, $5,471,289",
+    "Cap Hit": "$1,367,822",
+    "Expires": "2026"
+  },
+  {
+    "Player": "Siaki Ika",
+    "Contract Value": "4 yr, $5,461,580",
+    "Cap Hit": "$1,365,395",
+    "Expires": "2027"
+  },
+  {
+    "Player": "Alex Wright",
+    "Contract Value": "4 yr, $5,293,574",
+    "Cap Hit": "$1,323,394",
+    "Expires": "2026"
+  },
+  {
+    "Player": "David Bell",
+    "Contract Value": "4 yr, $5,094,904",
+    "Cap Hit": "$1,273,726",
+    "Expires": "2026"
+  },
+  {
+    "Player": "Dawand Jones",
+    "Contract Value": "4 yr, $4,632,332",
+    "Cap Hit": "$1,158,083",
+    "Expires": "2027"
+  },
+  {
+    "Player": "Jordan Elliott",
+    "Contract Value": "4 yr, $4,588,430",
+    "Cap Hit": "$1,147,108",
+    "Expires": "2024"
+  },
+  {
+    "Player": "Isaiah McGuire",
+    "Contract Value": "4 yr, $4,551,932",
+    "Cap Hit": "$1,137,983",
+    "Expires": "2027"
+  },
+  {
+    "Player": "Pierre Strong",
+    "Contract Value": "4 yr, $4,373,432",
+    "Cap Hit": "$1,093,358",
+    "Expires": "2026"
+  },
+  {
+    "Player": "Jacob Phillips",
+    "Contract Value": "4 yr, $4,344,314",
+    "Cap Hit": "$1,086,079",
+    "Expires": "2024"
+  },
+  {
+    "Player": "James Hudson",
+    "Contract Value": "4 yr, $4,272,416",
+    "Cap Hit": "$1,068,104",
+    "Expires": "2025"
+  },
+  {
+    "Player": "Dorian Thompson-Robinson",
+    "Contract Value": "4 yr, $4,182,272",
+    "Cap Hit": "$1,045,568",
+    "Expires": "2027"
+  },
+  {
+    "Player": "Cameron Mitchell",
+    "Contract Value": "4 yr, $4,177,232",
+    "Cap Hit": "$1,044,308",
+    "Expires": "2027"
+  },
+  {
+    "Player": "Harrison Bryant",
+    "Contract Value": "4 yr, $4,064,028",
+    "Cap Hit": "$1,016,007",
+    "Expires": "2024"
+  },
+  {
+    "Player": "Luke Wypler",
+    "Contract Value": "4 yr, $4,019,972",
+    "Cap Hit": "$1,004,993",
+    "Expires": "2027"
+  },
+  {
+    "Player": "Jerome Ford",
+    "Contract Value": "4 yr, $3,982,148",
+    "Cap Hit": "$995,537",
+    "Expires": "2026"
+  },
+  {
+    "Player": "Jordan Akins",
+    "Contract Value": "2 yr, $3,900,000",
+    "Cap Hit": "$1,950,000",
+    "Expires": "2025"
+  },
+  {
+    "Player": "Mike Woods",
+    "Contract Value": "4 yr, $3,828,288",
+    "Cap Hit": "$957,072",
+    "Expires": "2026"
+  },
+  {
+    "Player": "Tony Fields",
+    "Contract Value": "4 yr, $3,809,760",
+    "Cap Hit": "$952,440",
+    "Expires": "2025"
+  },
+  {
+    "Player": "Dawson Deaton",
+    "Contract Value": "4 yr, $3,742,940",
+    "Cap Hit": "$935,735",
+    "Expires": "2026"
+  },
+  {
+    "Player": "Nick Harris",
+    "Contract Value": "4 yr, $3,609,648",
+    "Cap Hit": "$902,412",
+    "Expires": "2024"
+  },
+  {
+    "Player": "Shelby Harris",
+    "Contract Value": "1 yr, $3,500,000",
+    "Cap Hit": "$3,500,000",
+    "Expires": "2024"
+  },
+  {
+    "Player": "Donovan Peoples-Jones",
+    "Contract Value": "4 yr, $3,481,608",
+    "Cap Hit": "$870,402",
+    "Expires": "2024"
+  },
+  {
+    "Player": "Corey Bojorquez",
+    "Contract Value": "2 yr, $3,380,000",
+    "Cap Hit": "$1,690,000",
+    "Expires": "2024"
+  },
+  {
+    "Player": "Mohamoud Diabate",
+    "Contract Value": "3 yr, $2,720,000",
+    "Cap Hit": "$906,667",
+    "Expires": "2026"
+  },
+  {
+    "Player": "Ronnie Hickman",
+    "Contract Value": "3 yr, $2,715,000",
+    "Cap Hit": "$905,000",
+    "Expires": "2026"
+  },
+  {
+    "Player": "Kahlef Hailassie",
+    "Contract Value": "3 yr, $2,705,000",
+    "Cap Hit": "$901,667",
+    "Expires": "2026"
+  },
+  {
+    "Player": "Drew Forbes",
+    "Contract Value": "4 yr, $2,689,336",
+    "Cap Hit": "$672,334",
+    "Expires": "2024"
+  },
+  {
+    "Player": "D\u2019Anthony Bell",
+    "Contract Value": "3 yr, $2,567,500",
+    "Cap Hit": "$855,833",
+    "Expires": "2025"
+  },
+  {
+    "Player": "Sione Takitaki",
+    "Contract Value": "1 yr, $2,430,000",
+    "Cap Hit": "$2,430,000",
+    "Expires": "2024"
+  },
+  {
+    "Player": "Marquise Goodwin",
+    "Contract Value": "1 yr, $1,700,000",
+    "Cap Hit": "$1,700,000",
+    "Expires": "2024"
+  },
+  {
+    "Player": "Michael Ford",
+    "Contract Value": "1 yr, $1,500,000",
+    "Cap Hit": "$1,500,000",
+    "Expires": "2024"
+  },
+  {
+    "Player": "Kareem Hunt",
+    "Contract Value": "1 yr, $1,350,000",
+    "Cap Hit": "$1,350,000",
+    "Expires": "2024"
+  },
+  {
+    "Player": "Rodney McLeod",
+    "Contract Value": "1 yr, $1,317,500",
+    "Cap Hit": "$1,317,500",
+    "Expires": "2024"
+  },
+  {
+    "Player": "Maurice Hurst",
+    "Contract Value": "1 yr, $1,242,000",
+    "Cap Hit": "$1,242,000",
+    "Expires": "2024"
+  },
+  {
+    "Player": "Jordan Kunaszyk",
+    "Contract Value": "1 yr, $1,232,500",
+    "Cap Hit": "$1,232,500",
+    "Expires": "2024"
+  },
+  {
+    "Player": "Matthew Adams",
+    "Contract Value": "1 yr, $1,232,500",
+    "Cap Hit": "$1,232,500",
+    "Expires": "2024"
+  },
+  {
+    "Player": "Anthony Walker Jr.",
+    "Contract Value": "1 yr, $1,232,500",
+    "Cap Hit": "$1,232,500",
+    "Expires": "2024"
+  },
+  {
+    "Player": "Michael Dunn",
+    "Contract Value": "1 yr, $1,010,000",
+    "Cap Hit": "$1,010,000",
+    "Expires": "2024"
+  },
+  {
+    "Player": "Thomas Graham Jr.",
+    "Contract Value": "1 yr, $940,000",
+    "Cap Hit": "$940,000",
+    "Expires": "2024"
+  }
+]
