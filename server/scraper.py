@@ -41,7 +41,8 @@ def findContracts():# URL of the page to scrape
 
             # Print or return the JSON data
             # print(json_data)
-            print(json_data)
+            with open('browns_contracts.json', 'w') as file:
+                file.write(json_data)
             return json_data
         else:
             print("Contracts table not found on the page.")
