@@ -25,24 +25,29 @@ def findContracts():# URL of the page to scrape
                     last_two_spans = [span.text for span in contract_spans[-2:]];
                     combined_spans = last_two_spans[0] + ', ' + last_two_spans[1]
                     player_name = cells[0].a.text.strip()
+                    position = cells[1].text.strip()
                     contract_value = combined_spans
                     cap_hit = cells[5].text.strip()
                     expires = cells[7].text.strip()
+                    acquired = cells[8].text.strip()
 
                     contract_data.append({
                         "Player": player_name,
+                        "Position": position,
                         "Contract Value": contract_value,
                         "Cap Hit": cap_hit,
-                        "Expires": expires
+                        "Expires": expires,
+                        "Acquired": acquired
                     })
 
             # Convert the data to JSON
-            json_data = json.dumps(contract_data, indent=2)
+            json_data = json.dumps(contract_data, indent=4)
+
 
             # Print or return the JSON data
             # print(json_data)
-            with open('browns_contracts.json', 'w') as file:
-                file.write(json_data)
+            # with open('browns_contracts.json', 'w') as file:
+            #     file.write(json_data)
             return json_data
         else:
             print("Contracts table not found on the page.")
