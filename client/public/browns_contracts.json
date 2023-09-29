@@ -1,374 +1,498 @@
 [
   {
     "Player": "Deshaun Watson",
+    "Position": "QB",
     "Contract Value": "5 yr, $230,000,000",
     "Cap Hit": "$46,000,000",
-    "Expires": "2027"
+    "Expires": "2027",
+    "Acquired": "Traded"
   },
   {
     "Player": "Myles Garrett",
+    "Position": "DE",
     "Contract Value": "5 yr, $125,000,000",
     "Cap Hit": "$25,000,000",
-    "Expires": "2027"
+    "Expires": "2027",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Denzel Ward",
+    "Position": "CB",
     "Contract Value": "5 yr, $100,500,000",
     "Cap Hit": "$20,100,000",
-    "Expires": "2028"
+    "Expires": "2028",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Amari Cooper",
+    "Position": "WR",
     "Contract Value": "5 yr, $100,000,000",
     "Cap Hit": "$20,000,000",
-    "Expires": "2025"
+    "Expires": "2025",
+    "Acquired": "Traded"
   },
   {
     "Player": "Jack Conklin",
+    "Position": "RT",
     "Contract Value": "4 yr, $60,000,000",
     "Cap Hit": "$15,000,000",
-    "Expires": "2027"
+    "Expires": "2027",
+    "Acquired": "Free Agent"
   },
   {
     "Player": "Dalvin Tomlinson",
+    "Position": "DT",
     "Contract Value": "4 yr, $57,000,000",
     "Cap Hit": "$14,250,000",
-    "Expires": "2027"
+    "Expires": "2027",
+    "Acquired": "Free Agent"
   },
   {
     "Player": "Wyatt Teller",
+    "Position": "G",
     "Contract Value": "4 yr, $56,800,000",
     "Cap Hit": "$14,200,000",
-    "Expires": "2026"
+    "Expires": "2026",
+    "Acquired": "Traded"
   },
   {
     "Player": "David Njoku",
+    "Position": "TE",
     "Contract Value": "4 yr, $54,750,000",
     "Cap Hit": "$13,687,500",
-    "Expires": "2026"
+    "Expires": "2026",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Joel Bitonio",
+    "Position": "G",
     "Contract Value": "3 yr, $48,000,000",
     "Cap Hit": "$16,000,000",
-    "Expires": "2026"
+    "Expires": "2026",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Nick Chubb",
+    "Position": "RB",
     "Contract Value": "3 yr, $36,600,000",
     "Cap Hit": "$12,200,000",
-    "Expires": "2025"
+    "Expires": "2025",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Juan Thornhill",
+    "Position": "S",
     "Contract Value": "3 yr, $21,000,000",
     "Cap Hit": "$7,000,000",
-    "Expires": "2026"
+    "Expires": "2026",
+    "Acquired": "Free Agent"
   },
   {
     "Player": "Jedrick Wills",
+    "Position": "T",
     "Contract Value": "4 yr, $19,702,914",
     "Cap Hit": "$4,925,729",
-    "Expires": "2025"
+    "Expires": "2025",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Ogbonnia Okoronkwo",
+    "Position": "DE",
     "Contract Value": "3 yr, $19,000,000",
     "Cap Hit": "$6,333,333",
-    "Expires": "2026"
+    "Expires": "2026",
+    "Acquired": "Free Agent"
   },
   {
     "Player": "Ethan Pocic",
+    "Position": "C",
     "Contract Value": "3 yr, $18,000,000",
     "Cap Hit": "$6,000,000",
-    "Expires": "2026"
+    "Expires": "2026",
+    "Acquired": "Free Agent"
   },
   {
     "Player": "Greg Newsome",
+    "Position": "CB",
     "Contract Value": "4 yr, $12,748,736",
     "Cap Hit": "$3,187,184",
-    "Expires": "2026"
+    "Expires": "2026",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Za'Darius Smith",
+    "Position": "OLB",
     "Contract Value": "1 yr, $11,710,000",
     "Cap Hit": "$11,710,000",
-    "Expires": "2024"
+    "Expires": "2024",
+    "Acquired": "Traded"
   },
   {
     "Player": "Jakeem Grant",
+    "Position": "WR",
     "Contract Value": "3 yr, $10,000,000",
     "Cap Hit": "$3,333,333",
-    "Expires": "2024"
+    "Expires": "2024",
+    "Acquired": "Free Agent"
   },
   {
     "Player": "Dustin Hopkins",
+    "Position": "K",
     "Contract Value": "3 yr, $9,000,000",
     "Cap Hit": "$3,000,000",
-    "Expires": "2025"
+    "Expires": "2025",
+    "Acquired": "Traded"
   },
   {
     "Player": "Elijah Moore",
+    "Position": "WR",
     "Contract Value": "4 yr, $8,940,426",
     "Cap Hit": "$2,235,107",
-    "Expires": "2025"
+    "Expires": "2025",
+    "Acquired": "Traded"
   },
   {
     "Player": "Grant Delpit",
+    "Position": "S",
     "Contract Value": "4 yr, $7,465,062",
     "Cap Hit": "$1,866,266",
-    "Expires": "2024"
+    "Expires": "2024",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Jeremiah Owusu-Koramoah",
+    "Position": "LB",
     "Contract Value": "4 yr, $6,476,216",
     "Cap Hit": "$1,619,054",
-    "Expires": "2025"
+    "Expires": "2025",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Charley Hughlett",
+    "Position": "LS",
     "Contract Value": "4 yr, $5,715,000",
     "Cap Hit": "$1,428,750",
-    "Expires": "2027"
+    "Expires": "2027",
+    "Acquired": "From Prac. Squad (KC)"
   },
   {
     "Player": "Cedric Tillman",
+    "Position": "WR",
     "Contract Value": "4 yr, $5,614,512",
     "Cap Hit": "$1,403,628",
-    "Expires": "2027"
+    "Expires": "2027",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Martin Emerson",
+    "Position": "CB",
     "Contract Value": "4 yr, $5,471,289",
     "Cap Hit": "$1,367,822",
-    "Expires": "2026"
+    "Expires": "2026",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Siaki Ika",
+    "Position": "DT",
     "Contract Value": "4 yr, $5,461,580",
     "Cap Hit": "$1,365,395",
-    "Expires": "2027"
+    "Expires": "2027",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Alex Wright",
+    "Position": "DE",
     "Contract Value": "4 yr, $5,293,574",
     "Cap Hit": "$1,323,394",
-    "Expires": "2026"
+    "Expires": "2026",
+    "Acquired": "Drafted"
   },
   {
     "Player": "David Bell",
+    "Position": "WR",
     "Contract Value": "4 yr, $5,094,904",
     "Cap Hit": "$1,273,726",
-    "Expires": "2026"
+    "Expires": "2026",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Dawand Jones",
+    "Position": "T",
     "Contract Value": "4 yr, $4,632,332",
     "Cap Hit": "$1,158,083",
-    "Expires": "2027"
+    "Expires": "2027",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Jordan Elliott",
+    "Position": "DT",
     "Contract Value": "4 yr, $4,588,430",
     "Cap Hit": "$1,147,108",
-    "Expires": "2024"
+    "Expires": "2024",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Isaiah McGuire",
+    "Position": "DE",
     "Contract Value": "4 yr, $4,551,932",
     "Cap Hit": "$1,137,983",
-    "Expires": "2027"
+    "Expires": "2027",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Pierre Strong",
+    "Position": "RB",
     "Contract Value": "4 yr, $4,373,432",
     "Cap Hit": "$1,093,358",
-    "Expires": "2026"
+    "Expires": "2026",
+    "Acquired": "Traded"
   },
   {
     "Player": "Jacob Phillips",
+    "Position": "ILB",
     "Contract Value": "4 yr, $4,344,314",
     "Cap Hit": "$1,086,079",
-    "Expires": "2024"
+    "Expires": "2024",
+    "Acquired": "Drafted"
   },
   {
     "Player": "James Hudson",
+    "Position": "T",
     "Contract Value": "4 yr, $4,272,416",
     "Cap Hit": "$1,068,104",
-    "Expires": "2025"
+    "Expires": "2025",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Dorian Thompson-Robinson",
+    "Position": "QB",
     "Contract Value": "4 yr, $4,182,272",
     "Cap Hit": "$1,045,568",
-    "Expires": "2027"
+    "Expires": "2027",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Cameron Mitchell",
+    "Position": "CB",
     "Contract Value": "4 yr, $4,177,232",
     "Cap Hit": "$1,044,308",
-    "Expires": "2027"
+    "Expires": "2027",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Harrison Bryant",
+    "Position": "TE",
     "Contract Value": "4 yr, $4,064,028",
     "Cap Hit": "$1,016,007",
-    "Expires": "2024"
+    "Expires": "2024",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Luke Wypler",
+    "Position": "C",
     "Contract Value": "4 yr, $4,019,972",
     "Cap Hit": "$1,004,993",
-    "Expires": "2027"
+    "Expires": "2027",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Jerome Ford",
+    "Position": "RB",
     "Contract Value": "4 yr, $3,982,148",
     "Cap Hit": "$995,537",
-    "Expires": "2026"
+    "Expires": "2026",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Jordan Akins",
+    "Position": "TE",
     "Contract Value": "2 yr, $3,900,000",
     "Cap Hit": "$1,950,000",
-    "Expires": "2025"
+    "Expires": "2025",
+    "Acquired": "Free Agent"
   },
   {
     "Player": "Mike Woods",
+    "Position": "WR",
     "Contract Value": "4 yr, $3,828,288",
     "Cap Hit": "$957,072",
-    "Expires": "2026"
+    "Expires": "2026",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Tony Fields",
+    "Position": "LB",
     "Contract Value": "4 yr, $3,809,760",
     "Cap Hit": "$952,440",
-    "Expires": "2025"
+    "Expires": "2025",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Dawson Deaton",
+    "Position": "C",
     "Contract Value": "4 yr, $3,742,940",
     "Cap Hit": "$935,735",
-    "Expires": "2026"
+    "Expires": "2026",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Nick Harris",
+    "Position": "C",
     "Contract Value": "4 yr, $3,609,648",
     "Cap Hit": "$902,412",
-    "Expires": "2024"
+    "Expires": "2024",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Shelby Harris",
+    "Position": "DT",
     "Contract Value": "1 yr, $3,500,000",
     "Cap Hit": "$3,500,000",
-    "Expires": "2024"
+    "Expires": "2024",
+    "Acquired": "Free Agent"
   },
   {
     "Player": "Donovan Peoples-Jones",
+    "Position": "WR",
     "Contract Value": "4 yr, $3,481,608",
     "Cap Hit": "$870,402",
-    "Expires": "2024"
+    "Expires": "2024",
+    "Acquired": "Drafted"
   },
   {
     "Player": "Corey Bojorquez",
+    "Position": "P",
     "Contract Value": "2 yr, $3,380,000",
     "Cap Hit": "$1,690,000",
-    "Expires": "2024"
+    "Expires": "2024",
+    "Acquired": "Free Agent"
   },
   {
     "Player": "Mohamoud Diabate",
+    "Position": "LB",
     "Contract Value": "3 yr, $2,720,000",
     "Cap Hit": "$906,667",
-    "Expires": "2026"
+    "Expires": "2026",
+    "Acquired": "Undrafted"
   },
   {
     "Player": "Ronnie Hickman",
+    "Position": "S",
     "Contract Value": "3 yr, $2,715,000",
     "Cap Hit": "$905,000",
-    "Expires": "2026"
+    "Expires": "2026",
+    "Acquired": "Undrafted"
   },
   {
     "Player": "Kahlef Hailassie",
+    "Position": "S",
     "Contract Value": "3 yr, $2,705,000",
     "Cap Hit": "$901,667",
-    "Expires": "2026"
+    "Expires": "2026",
+    "Acquired": "Claimed"
   },
   {
     "Player": "Drew Forbes",
+    "Position": "G",
     "Contract Value": "4 yr, $2,689,336",
     "Cap Hit": "$672,334",
-    "Expires": "2024"
+    "Expires": "2024",
+    "Acquired": "Claimed"
   },
   {
     "Player": "D\u2019Anthony Bell",
+    "Position": "S",
     "Contract Value": "3 yr, $2,567,500",
     "Cap Hit": "$855,833",
-    "Expires": "2025"
+    "Expires": "2025",
+    "Acquired": "Undrafted"
   },
   {
     "Player": "Sione Takitaki",
+    "Position": "LB",
     "Contract Value": "1 yr, $2,430,000",
     "Cap Hit": "$2,430,000",
-    "Expires": "2024"
+    "Expires": "2024",
+    "Acquired": "Free Agent"
   },
   {
     "Player": "Marquise Goodwin",
+    "Position": "WR",
     "Contract Value": "1 yr, $1,700,000",
     "Cap Hit": "$1,700,000",
-    "Expires": "2024"
+    "Expires": "2024",
+    "Acquired": "Free Agent"
   },
   {
     "Player": "Michael Ford",
+    "Position": "CB",
     "Contract Value": "1 yr, $1,500,000",
     "Cap Hit": "$1,500,000",
-    "Expires": "2024"
+    "Expires": "2024",
+    "Acquired": "Free Agent"
   },
   {
     "Player": "Kareem Hunt",
+    "Position": "RB",
     "Contract Value": "1 yr, $1,350,000",
     "Cap Hit": "$1,350,000",
-    "Expires": "2024"
+    "Expires": "2024",
+    "Acquired": "Free Agent"
   },
   {
     "Player": "Rodney McLeod",
+    "Position": "FS",
     "Contract Value": "1 yr, $1,317,500",
     "Cap Hit": "$1,317,500",
-    "Expires": "2024"
+    "Expires": "2024",
+    "Acquired": "Free Agent"
   },
   {
     "Player": "Maurice Hurst",
+    "Position": "DT",
     "Contract Value": "1 yr, $1,242,000",
     "Cap Hit": "$1,242,000",
-    "Expires": "2024"
+    "Expires": "2024",
+    "Acquired": "signed-re-signed"
   },
   {
     "Player": "Jordan Kunaszyk",
+    "Position": "LB",
     "Contract Value": "1 yr, $1,232,500",
     "Cap Hit": "$1,232,500",
-    "Expires": "2024"
+    "Expires": "2024",
+    "Acquired": "Free Agent"
   },
   {
     "Player": "Matthew Adams",
+    "Position": "OLB",
     "Contract Value": "1 yr, $1,232,500",
     "Cap Hit": "$1,232,500",
-    "Expires": "2024"
+    "Expires": "2024",
+    "Acquired": "Free Agent"
   },
   {
     "Player": "Anthony Walker Jr.",
+    "Position": "ILB",
     "Contract Value": "1 yr, $1,232,500",
     "Cap Hit": "$1,232,500",
-    "Expires": "2024"
+    "Expires": "2024",
+    "Acquired": "Free Agent"
   },
   {
     "Player": "Michael Dunn",
+    "Position": "T",
     "Contract Value": "1 yr, $1,010,000",
     "Cap Hit": "$1,010,000",
-    "Expires": "2024"
+    "Expires": "2024",
+    "Acquired": "From Prac. Squad (CLE)"
   },
   {
     "Player": "Thomas Graham Jr.",
+    "Position": "CB",
     "Contract Value": "1 yr, $940,000",
     "Cap Hit": "$940,000",
-    "Expires": "2024"
+    "Expires": "2024",
+    "Acquired": "From Prac. Squad (CLE)"
   }
 ]

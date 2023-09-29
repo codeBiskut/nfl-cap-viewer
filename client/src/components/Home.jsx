@@ -6,8 +6,8 @@ function Home() {
   const runPythonScript = async () => {
     try {
       const response = await fetch('/get-contracts'); // Assumes the React app is hosted on the same server
-      setOutput(response.data.output);
-      console.log(response.data.output)
+      setOutput(response.data);
+      console.log(response.data)
     } catch (error) {
       console.error('Error:', error);
       // Handle error in your React component

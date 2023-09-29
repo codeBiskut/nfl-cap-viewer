@@ -29,9 +29,11 @@ class ContractList extends Component {
           {this.state.contracts.map((contract, index) => (
             <li key={index}>
               Player: {contract.Player}<br />
+              Position: {contract.Position}<br />
               Contract Value: {contract['Contract Value']}<br />
               Cap Hit: {contract['Cap Hit']}<br />
-              Expires: {contract['Expires']}<br /><br />
+              Expires: {contract['Expires']}<br />
+              Acquired: {contract.Acquired}<br/><br/>
             </li>
           ))}
         </ul>
